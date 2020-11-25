@@ -1,0 +1,4 @@
+# for sample purposes
+# remove file '.toml' extension to enable by default
+[build]
+target = "i686-pc-windows-msvc"
